@@ -1,0 +1,18 @@
+.login-form {
+    width: 100%;
+    background-color: antiquewhite; /* Or any other color you prefer */
+    padding: 20px;
+    border-radius: 5px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    position: relative;
+}
+
+.vh-100 {
+    height: 100vh;
+}
+.link {
+    position:absolute;
+    bottom: 0;
+    right:0;
+}
